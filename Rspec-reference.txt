@@ -1,0 +1,25 @@
+Rspec getting started URL
+https://relishapp.com/rspec/rspec-rails/v/2-14/docs/gettingstarted
+
+Free video tutorial for part 1
+
+http://rspec.codeschool.com/levels/1
+
+video tutorioal
+
+http://www.youtube.com/watch?v=JhR9Ib1Ylb8#t=1870
+
+cucumber book(Behaviour-Driven Development for Testers and Developers)
+http://it-ebooks.info/book/675/
+
+Rspec tutorial for device authenication
+	http://railsapps.github.io/tutorial-rails-devise-rspec-cucumber.html
+
+
+Rspec tutorial with rails 4 application  , it is good one
+
+	http://ruby.railstutorial.org/chapters/static-pages#top
+
+Rspec good vs bad comparasion tutorial
+
+http://betterspecs.org/

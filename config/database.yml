@@ -43,7 +43,7 @@ test:
   encoding: unicode
   database: rspec-excise_test
   pool: 5
-  username: rspec-postgres
+  username: postgres
   password: root
 
 production:
